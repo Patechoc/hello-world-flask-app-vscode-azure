@@ -20,4 +20,6 @@ This configuration is defined in `launch.json`.
 
 ## Remotely in Azure
 
-Tutorial to [deploy a container in Azure](https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/)
+- [ ] you will need to create a "container registry" in your Azure subscription.
+
+Tutorial to [deploy a container in Azure](https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/) and/or [Deploy Docker containers to Azure App Service with Visual Studio Code](https://docs.microsoft.com/en-us/azure/developer/python/tutorial-deploy-containers-01).
